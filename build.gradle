@@ -4,7 +4,7 @@ plugins {
 
 group 'ru.netology'
 version '1.0-SNAPSHOT'
-sourceCompatibility = 11
+sourceCompatibilitgit y = 11
 repositories {
     mavenCentral()
 }
